@@ -4,3 +4,4 @@ function display1(option)
 }  
     let ans=true;  
 console.log(display1(ans)); 
+let a = 10;
